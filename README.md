@@ -21,7 +21,12 @@ Repeat the process until the total number of attacks, or the Objective function,
 Display the necessary states and the time taken.
 
 
-## PROGRAM
+## <br/><br/><br/><br/><br/><br/><br/>PROGRAM
+
+```
+Developed By : Dineshkumar V
+Reg.no : 212220230013
+```
 ```python
 
 
@@ -222,7 +227,7 @@ plt.show()
 ```
 
 
-## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>OUTPUT:
+## OUTPUT:
 
 <br/><br/>![ab1](https://user-images.githubusercontent.com/75235789/169748298-19fb4bb5-386b-493f-b743-b3c67fd5d317.jpg)
 
@@ -240,14 +245,14 @@ plt.show()
 
 The larger the state space, the longer it take to complete the search.
 
-## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Time Complexity Plot
+## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Time Complexity Plot
 #### Plot a graph for various value of N and time(seconds)
 
 ![Screenshot 2022-05-23 103823](https://user-images.githubusercontent.com/75235789/169747756-0f78e1a4-034b-4cb5-a8d2-dcb6ad79291b.jpg)
 
 
 
-## <br/><br/><br/><br/><br/><br/><br/><br/><br/>RESULT:
+## <br/><br/><br/>RESULT:
 
 Hence, a code to solve eight queens problem using the hill-climbing algorithm has been implemented.
 
